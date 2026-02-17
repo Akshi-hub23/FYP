@@ -28,7 +28,7 @@ const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 
 // Backend API Configuration
-const char* backend_server = "http://192.168.1.100:5000";  // Update with your server IP
+const char* backend_server = "http://192.168.43.105:5000";  // Update with your server IP
 const int backend_port = 5000;
 
 // Pin Definitions

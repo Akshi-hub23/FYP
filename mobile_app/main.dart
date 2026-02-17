@@ -34,7 +34,7 @@ class DashboardScreen extends StatefulWidget {
 
 class _DashboardScreenState extends State<DashboardScreen> {
   // Backend API URL - Update with your server IP
-  final String apiUrl = 'http://192.168.1.100:5000';
+  final String apiUrl = 'http://192.168.43.105:5000';
   
   // Sensor data
   Map<String, dynamic> sensorData = {
